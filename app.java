@@ -4,6 +4,7 @@ public class HelloWorld {
     }
 }
 
+
 //dev-2 push from local
 public class BasicMath {
     public static void main(String[] args) {
@@ -17,3 +18,7 @@ public class BasicMath {
         System.out.println("Modulus: " + (a % b)); // Remainder
     }
 }
+
+
+new code by dev-1 without pull the code
+
