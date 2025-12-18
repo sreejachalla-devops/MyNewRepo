@@ -25,7 +25,7 @@ new code by dev-1 without pull the code
     
     #this is java code 
     #this is to build
-    #we are using jenkins cron tab
+    
 
     
 
